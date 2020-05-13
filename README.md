@@ -1,2 +1,6 @@
 # MyTrailhead
-Jellow!
+<<<<<<< HEAD
+=======
+Hello!
+Coucou
+>>>>>>> origin/master
